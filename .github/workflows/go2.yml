@@ -26,8 +26,13 @@ jobs:
           go get -v gopkg.in/gomail.v2
           go get -v github.com/n0madic/twitter-scraper
 
+      - name: Build
+        run: go build -v ./...
+
+      - name: Test
+        run: go test -v ./...
+
       - name: Run main.go
         run: |
           cd gorun
           go run main.go
-
