@@ -1,0 +1,97 @@
+Greg Isenberg (Late Checkout创始人、AI 创业者):
+1. Level up with AI:
+
+1. Follow @youneedarobot 
+2. Sign up to the community/newsletter https://t.co/ILRLn1EmiG
+
+Free for now but not forever -- 2023-05-08
+2. Facts. https://t.co/XiC9XN8qSj -- 2023-05-08
+3. 👀
+
+https://t.co/3hBYKXlXcu -- 2023-05-08
+
+Google (全球最大的搜索引擎和互联网技术公司):
+1. We’re in the final stretch to #GoogleIO! 🥳 Tune in this Wednesday, May 10 at 10am PT for all our latest news, updates and demos → https://t.co/BJCe4w8BPR https://t.co/8bPpUxJICl -- 2023-05-08
+2. Designed and taught by Google’s cybersecurity experts, the Google Cybersecurity Certificate will help expand the cyber workforce and fill a major skills gap to keep people safe from evolving threats on the internet. #GrowWithGoogle https://t.co/lAj6ExoLtj -- 2023-05-08
+
+Pedro Domingos (华盛顿大学教授、机器学习专家):
+1. All those stores closing in San Francisco should be required by law to stay open. Where else are the oppressed going to steal from? -- 2023-05-09
+2. LLMs are a transitional technology. Mature AI will be done very differently. -- 2023-05-09
+
+Eliezer Yudkowsky (人工智能风险研究员、机器超级智能理论家):
+1. My "I cannot confirm or deny..." shirt is raising a lot of questions already not confirmed or denied by my shirt -- 2023-05-09
+2. Or @CharlotteFang77. -- 2023-05-09
+3. I cannot confirm or deny that I am @chloe21e8, @lilclearpill, @angelcore_apple, @88tianxia88, or @50mgzoloft. https://t.co/DxvfKMzkev -- 2023-05-09
+
+Matt Shumer (SociallyMined创始人、AI 创业者):
+1. ChatGPT, meet Claude.
+
+I asked @OpenAI's ChatGPT and @AnthropicAI's Claude to debate each other about their capabilities.
+
+They argued for a bit, then found common ground on the ethics of AI systems.
+
+Alignment ftw? https://t.co/CgXAdagn5d -- 2023-05-08
+2. Is there a ready-to-go Colab notebook to fine-tune @Replit Code v1-3b? -- 2023-05-08
+3. Hot take: AutoGPT is useless for 99% of the things people are asking it to do
+
+You’re much better off just asking regular old ChatGPT -- 2023-05-08
+
+Bill Gates (微软创始人):
+1. Eradicating smallpox was hard, but it was also one of the most important achievements in human history. That makes it worth celebrating—and learning from. -- 2023-05-08
+2. Nuclear energy, if we do it right, will help us solve our climate goals. Thanks for the great conversation, @rebeccajarvis. https://t.co/IoGM8qKcoO -- 2023-05-08
+
+Gary Marcus (纽约大学教授、AI 评论家):
+1. At least we have social media? -- 2023-05-09
+2. Why building conscious AI is a lousy idea, excellent essay by @anilkseth.  
+
+Just because maybe possibly our scientists someday could doesn’t mean they should. 
+
+ https://t.co/H3fnbA4J6V -- 2023-05-09
+3. The US is falling behind China in AI regulation, reports @Axios today. (Few of us will really satisfied with last week’s press conference…)
+
+Am going to DC next week to try to help. Suggestions welcome below.
+
+https://t.co/GTFcAzUUm2 -- 2023-05-08
+
+Greg Brockman (OpenAI 联合创始人兼主席):
+1. ChatGPT plugin for real estate listings: -- 2023-05-08
+2. GPT-4 "mental math" capabilities are very interesting &amp; worth exploring.
+
+Almost always right when adding random 40-digit numbers.
+
+Almost always wrong when adding a 40-digit number plus a 35-digit number. https://t.co/5mLvcZFYPT -- 2023-05-08
+3. Agree with this thread.  Hard to predict far in advance how AI will unfold or what actions can be taken to make it go better, but the stakes are high so it's worth trying.
+
+Should maximally learn from our experience with the technology, while peering as far ahead as possible. -- 2023-05-08
+
+Yann LeCun (NYU教授、深度学习创始人):
+1. On June 22, @tegmark and I will be debating the question:
+"Be it resolved, AI research and development poses an existential threat."
+
+Max will argue for YES, and I will argue for NO.
+
+https://t.co/G1oJk9Bi2Z -- 2023-05-08
+2. If some ill-intentioned person can produce an evil AGI, then large groups of well-intentioned, well-funded, and well-organized people can produce AI systems that are specialized in taking down evil AGIs.
+Call it the AGI police.
+
+No need to bomb data centers. -- 2023-05-08
+
+Elon Musk (特斯拉、SpaceX 创始人):
+1. For my part, I just want to support content creators, whether or not they provide extra content when you subscribe -- 2023-05-09
+2. Your support of content creators on this platform is very much appreciated.
+
+We keep none of the subscription revenue for the first 12 months &amp; only 10% thereafter. -- 2023-05-09
+
+Sully Omarr (AI 研究员、OpenAI 成员):
+1. Btw if you liked this thread give me a follow @SullyOmarr :) Happy to answer any questions if you have as well. -- 2023-05-08
+2. That's the super basic explanation of how embeddings and LLMs can give you pretty insane chat-like capabilities for any form of data.
+
+It's also how all those "chat with your site/pdf/blah blah" work! 
+
+THEY ARE NOT NOT FINE TUNING. That is just a marketing term. -- 2023-05-08
+3. The most common one is:
+Given the context, answer the users question truthfully.
+If you are not able to, then say “I cannot answer the question” and thats it!
+
+The LLM takes the relevant text chunks from your PDF and tries to truthfully answer your question. -- 2023-05-08
+

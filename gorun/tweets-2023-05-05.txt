@@ -1,0 +1,97 @@
+Greg Isenberg (Late Checkout创始人、AI 创业者):
+1. Ask me anything!
+
+Personal or business. Let's go =) -- 2023-05-04
+2. You can follow me here on Twitter @gregisenberg to stay up to date with new technologies like Code Interpreter and community-based products
+
+I also write a weekly newsletter at https://t.co/F3G2HRaeqB with deeper insights -- 2023-05-04
+3. @youneedarobot How to access Code Interpreter: 
+
+It isn't available for everyone yet
+
+I'm sure they'll be rolling it out slowly as to not rock the world too hard
+
+Wild times. -- 2023-05-04
+
+Matt Shumer (SociallyMined创始人、AI 创业者):
+1. It's still early, and doesn't do everything perfectly... yet.
+
+But give it a few months, and it'll feel as capable as a real person.
+
+*Every browser tab becomes an employee.* -- 2023-05-04
+2. Personal Assistant by @HyperWriteAI is the most powerful AutoGPT in the world.
+
+We're starting to roll it out to initial testers today.
+
+I can't wait for you all to experience it. https://t.co/1H7XwhsaLa -- 2023-05-04
+3. What's fascinating about Personal Assistant is its ability to perform tasks we never designed it for.
+
+I asked it to monitor my inbox for a specific email and respond when it arrives.
+
+Imagine an AI managing your inbox all day — organizing, drafting replies, and more. https://t.co/5ISpXwjxdw -- 2023-05-04
+
+Sully Omarr (AI 研究员、OpenAI 成员):
+1. Got access to 32k 👀Will play with it a bit tonight. Anything you guys wana see? https://t.co/7KTi63gVFr -- 2023-05-04
+2. Really like the way llama index is abstracting concepts related to LLMs in general -- 2023-05-04
+3. Looks like openai is starting to crack down on anyone with “GPT” in their site/brand.
+
+RIP to anyone who build a product with gpt in its name. -- 2023-05-04
+
+Max Tegmark (MIT教授、宇宙学家):
+1. IMHO, @SnoopDogg now captures the magnitude of what's happening in #AI better than most tech pundits with their financial conflicts of interest – and most policymakers and corporate lobbyists... -- 2023-05-04
+
+Eliezer Yudkowsky (人工智能风险研究员、机器超级智能理论家):
+1. Yann's unfamiliarity with prior literature is clearly on display, here.  Whether an intelligence being "submissive" suffices to make it easy-to-steer is a primary focus of my 1.8M-word BDSM decision theory D&amp;D fic, which Yann apparently refuses to read https://t.co/JW1AGEcGuR -- 2023-05-04
+
+Pedro Domingos (华盛顿大学教授、机器学习专家):
+1. TL;DR: AI can't be stopped because anyone can play with it, and the whole discussion of "guardrails" and "moratoria" is academic.
+https://t.co/MAHIYAzrER -- 2023-05-05
+2. Google increases your IQ, and ChatGPT increases it even more. -- 2023-05-05
+3. Human intelligence is increasing faster now than at any previous time in history. -- 2023-05-05
+
+Gary Marcus (纽约大学教授、AI 评论家):
+1. today’s WH press conference was painted as a tale of big corporates meeting big government. 
+
+a lot of people working behind the scenes got left out of the press release. -- 2023-05-05
+2. I also would have liked to seen independent scientists as a more visible part of the picture, and am dismayed that @ruchowdh’s work on building red-teaming evaluations was entirely attributed to Scale AI (in keeping with overly corporate feel of the press release). -- 2023-05-04
+3. Report card for today’s WH AI event?
+
+Suresh @geomblog Venkatasubramanian, coauthor of the AI Bill of Rights, gave it a B+.
+
+I am leaning towards a lower grade: A for effort, C for execution: not enough specificity about risks, and not enough teeth to address those risks. -- 2023-05-04
+
+Ilya Sutskever (OpenAI联合创始人、深度学习专家):
+1. It’s not a religion if it’s true -- 2023-05-05
+
+Lex Fridman (MIT研究员、AI 评论家):
+1. Lol true 🤣 https://t.co/QHk515YUi6 -- 2023-05-04
+2. The impact of creativity in prompting ChatGPT is limitless. It feels to be more of an art than a science.
+
+Great "programmers" of the future will in part have to be artists. Perhaps they always were, but now the method and medium of creation has become much more accessible. -- 2023-05-04
+
+Google (全球最大的搜索引擎和互联网技术公司):
+1. Get an inside look into @Fitbit features like Body Response, EDA Scan and more that help you keep your stress in check ↓ https://t.co/d8RToJy4aC -- 2023-05-04
+2. Using the power of Google AI, @GoogleDownUnder teamed up with @WWF_Australia and @ConservationOrg to monitor the recovery of Australian wildlife in bushfire-affected areas. 
+
+Learn more about how we’re helping Australian wildlife survive and thrive ↓ https://t.co/F47MTUWBEy -- 2023-05-04
+
+DeepMind (Google旗下的人工智能研究公司):
+1. Looking for advice on how to get into AI at #ICLR2023? 🤔
+
+We’re proud to host a mentoring session with @Black_In_AI and @DeepIndaba today at 4 - 5.30pm.
+
+Talk to our team about:
+🔵 Improving your CV
+🔵 Applying for a PhD
+🔵 Interview tips
+
+Find out more: https://t.co/Q8QRASpmer https://t.co/uwcemAP1Kr -- 2023-05-04
+
+Yann LeCun (NYU教授、深度学习创始人):
+1. This is absolutely correct.
+The most common reaction by AI researchers to these prophecies of doom is face palming. -- 2023-05-04
+2. Note to picky neuroscientists: replace "lizard brain" by "basal ganglia". -- 2023-05-04
+
+Elon Musk (特斯拉、SpaceX 创始人):
+1. Falcon Heavy long exposure looks like 3 laser beams from space https://t.co/N4gUaINaNt -- 2023-05-04
+

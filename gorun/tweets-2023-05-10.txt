@@ -1,0 +1,95 @@
+Sam Altman (OpenAI 创始人):
+1. GPT-4 doing some interpretability work on GPT-2: -- 2023-05-09
+
+Pedro Domingos (华盛顿大学教授、机器学习专家):
+1. Our brain’s algorithm can’t be something  that was hard for evolution to discover, because if it was, it wouldn’t have. -- 2023-05-10
+2. The one sure thing about what AI will do to the stock market is that it increases variance. -- 2023-05-10
+3. People think the tech giant most threatened by chatbots is Google, but it may well be Apple, because chatbots will increasingly make the interfaces it's good at irrelevant. -- 2023-05-10
+
+Gary Marcus (纽约大学教授、AI 评论家):
+1. Dude, where’s my driverless car? 
+
+@cademetz @NYTimes and the legendary Missy Cummings look at this from every angle: safety, technology, policy and most importantly … the money.
+
+Episode 3 of https://t.co/ez4l9p2TxT has arrived, with a terrifying cameo from @Aiaddict1 -- 2023-05-10
+
+Sully Omarr (AI 研究员、OpenAI 成员):
+1. We’re at the “dev building for dev” stage of AI atm
+
+There are very few true consumer ai products that have pmf (copyai, Jarvis)
+
+Most of the demos I see are cool, but they’re too confusing for the average person to use or understand. Most try it then churn quickly. -- 2023-05-09
+
+Eliezer Yudkowsky (人工智能风险研究员、机器超级智能理论家):
+1. Commentary at greater length:
+- I'm encouraged that somebody ran right out and tried this.
+- It's not clear (to me, yet) that it worked all that well, or better than expected; I have not yet signficantly updated my model of how technically hard interpretability is.
+- It is… https://t.co/K3a434ZAyE -- 2023-05-10
+2. 0-0 -- 2023-05-09
+
+Bill Gates (微软创始人):
+1. I’m very encouraged by the E-MOTIVE Trial results released today at #IMNHC2023 to treat postpartum hemorrhage, the #1 cause of maternal mortality. This new approach led by @unibirmingham and @WHO could drastically improve women’s chances of surviving childbirth globally.… https://t.co/HP7fclWQV8 -- 2023-05-09
+2. By prioritizing accessibility, affordability, and economic mobility, @NAU is redefining—and increasing—the value of a college degree. I can’t wait to visit the school this weekend and see the incredible work they’re doing up close. 
+https://t.co/LwkO0KQUwl -- 2023-05-09
+
+Jeff Dean (Google人工智能部门负责人):
+1. Great thread by @SashaMTL highlighting many women who helped establish the foundations of computing, computer science, and AI. -- 2023-05-09
+
+Greg Brockman (OpenAI 联合创始人兼主席):
+1. We're using GPT-4 to interpret the neurons in GPT-2.
+
+Step towards our alignment plan of using AI to automate alignment research  (https://t.co/ARrIzlbLUX).
+
+GPT-2 neuron map released here: https://t.co/IqzMc0gvpi -- 2023-05-09
+2. New ChatGPT plugin — the "Word Sneak" game. ChatGPT has to work 3 specific words into conversation without you noticing them. Here's an (not too difficult) example: https://t.co/EksOgLRkXE https://t.co/9ShhdWeMFj -- 2023-05-09
+
+Matt Shumer (SociallyMined创始人、AI 创业者):
+1. If you think GPT-4-32K is cool, look into ALiBi.
+
+It’s going to leave GPT-4-32K in the dust.
+
+TLDR, it’s a new way to train AIs to work with very long sequences.
+
+Imagine putting every doc anyone in your company has ever written into ONE prompt.
+
+https://t.co/U5HxMwPCwt -- 2023-05-09
+
+Google (全球最大的搜索引擎和互联网技术公司):
+1. Only one more sleep until #GoogleIO! Tune in tomorrow at 10am PT for our latest announcements, demos and more → https://t.co/VjK03gNdcM https://t.co/tSLrNqZZ8E -- 2023-05-09
+2. This year marks #GoogleIO's 15th anniversary. Go inside the story of how our developer conference got its name and don’t forget to tune in tomorrow at https://t.co/BJCe4w8BPR to see this year’s edition. https://t.co/P8PpXlHL4C -- 2023-05-09
+3. Fentanyl is involved in more deaths of Americans under 50 than any other cause. Search “pharmacy near me” to find a pharmacy that carries over-the-counter naloxone and learn more at our Recover Together site ↓ #NationalFentanylAwarenessDay https://t.co/q7kG1n9dV9 https://t.co/3PGTgm3JiJ -- 2023-05-09
+
+Andrej Karpathy (前Tesla AI 负责人):
+1. RE: "how often do you see teams actually fine tuning LLMs?"
+It's an interesting question, about how prompting (optimization over prefix tokens) and finetuning (optimization over weights) will be used over time. If people have data points please pitch in. 
+I expect that finetuning… https://t.co/iFVcZzQIxK -- 2023-05-09
+
+Max Tegmark (MIT教授、宇宙学家):
+1. Does future #AI R&amp;D pose an existential threat? Welcome to the Munk debate between @ylecun and me!  https://t.co/eCzjBMMugO -- 2023-05-09
+
+OpenAI (GPT、DALL-E 缔造者):
+1. We applied GPT-4 to interpretability — automatically proposing explanations for GPT-2's 300k neurons — and found neurons responding to concepts like similes, “things done correctly,” or expressions of certainty. We aim to use Al to help us understand Al: https://t.co/mUsGOg6T69 https://t.co/knCUxnL5CY -- 2023-05-09
+
+Lex Fridman (MIT研究员、AI 评论家):
+1. Here's my conversation with @stephen_wolfram, his 4th time on the podcast. This was a deep and fascinating exploration of ChatGPT and WolframAlpha as it relates to the nature of truth, knowledge, intelligence, entropy, complexity, and reality itself.  https://t.co/cJwG2gQt8p https://t.co/tMlW2utO5T -- 2023-05-09
+
+Greg Isenberg (Late Checkout创始人、AI 创业者):
+1. If watching on Twitter isn't your thing, I get it...
+
+Subscribe on YouTube:
+
+https://t.co/i8PFOTzJrb -- 2023-05-09
+2. Favorite moments of the episode:
+
+"Good fences make for good neighbors"
+
+"If your graveyard isn’t bigger than your house, then you’re doing it wrong" -- 2023-05-09
+3. Some of the companies @TheoTabah and I discussed:
+
+Follow to stay ahead:
+
+1. @boringmarketer (AI-enhanced SEO to make you $)
+2. @youneedarobot (tips to use AI for productivity)
+3. @DispatchDesign (design subscription to level up your biz)
+4. @latecheckoutplz (our holdco) -- 2023-05-09
+

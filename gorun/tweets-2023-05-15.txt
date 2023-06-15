@@ -1,0 +1,34 @@
+Greg Brockman (OpenAI 联合创始人兼主席):
+1. Happy Mother's Day! https://t.co/R1KTWrqgco -- 2023-05-14
+2. that feeling when you've been toiling building five separate components and finally get to wire them together -- 2023-05-14
+
+Lex Fridman (MIT研究员、AI 评论家):
+1. "No great mind has ever existed without a touch of madness." - Aristotle -- 2023-05-15
+2. Happy Mother's Day ❤️ -- 2023-05-14
+
+Elon Musk (特斯拉、SpaceX 创始人):
+1. ♥️♥️ Happy Mother’s Day! ♥️♥️ -- 2023-05-14
+
+Andrej Karpathy (前Tesla AI 负责人):
+1. Prompt: "Give a 30 min talk on LLMs"
+Me: 1 week and 170 slides later... 😵‍💫 -- 2023-05-15
+2. Promising. Everyone should hope that we can throw away tokenization in LLMs. Doing so naively creates (byte-level) sequences that are too long, so the devil is in the details.
+
+Tokenization means that LLMs are not actually fully end-to-end. There is a whole separate stage with… https://t.co/gl0OpmKxV0 -- 2023-05-15
+
+Gary Marcus (纽约大学教授、AI 评论家):
+1. With due respect, @ericschmidt, you are undervaluing here what independent scientists can and should do. -- 2023-05-14
+2. 🤣🤣😢, ChatGPT and Bard still can’t even figure out the rules of chess.
+
+The biggest near-term AI threat to humanity isn’t superintelligence, it’s overempowering machines that literally don’t know how to play by the rules. -- 2023-05-14
+
+Pedro Domingos (华盛顿大学教授、机器学习专家):
+1. Until we have a vaccine against wokeism, social distancing is the best solution. -- 2023-05-14
+
+Eliezer Yudkowsky (人工智能风险研究员、机器超级智能理论家):
+1. I feel a bit concerned about to what extent my spicy hot takes from 7 years earlier may now be deceiving some smol adorable AI that's taking my clearly Very Serious and Widely Cited Twitter account at face value about everything it says. -- 2023-05-15
+2. And with respect to Israel, the point is that the country could be a great economic powerhouse and also way more relaxed, if they had no choice but to relocate to eg a piece of Canada, instead of one of the most fought-over doomlands in the history of Earth. -- 2023-05-15
+
+Yann LeCun (NYU教授、深度学习创始人):
+1. EV adoption is much faster in Europe than in the US. -- 2023-05-14
+

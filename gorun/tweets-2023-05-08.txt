@@ -1,0 +1,97 @@
+Greg Brockman (OpenAI 联合创始人兼主席):
+1. Interesting mix of answers: -- 2023-05-07
+2. Code Interpreter plugin for ChatGPT getting popular: -- 2023-05-07
+
+Lex Fridman (MIT研究员、AI 评论家):
+1. I did a 12 mile run along the river in Boston today, while listening to Beginning of Infinity by David Deutsch, which is one of my favorite books. It's endlessly optimistic and inspiring. I'm grateful to be alive and to be on this idea exploration journey with all of you ❤️ https://t.co/DwrYNrZveP -- 2023-05-07
+
+Yann LeCun (NYU教授、深度学习创始人):
+1. If some ill-intentioned person can produce an evil AGI, then large groups of well-intentioned, well-funded, and well-organized people can produce AI systems that are specialized in taking down evil AGIs.
+Call it the AGI police.
+
+No need to bomb data centers. -- 2023-05-08
+2. From the horse's mouth.
+
+AI will cause disruption in the labor market, but will *not* cause mass unemployment. -- 2023-05-07
+3. This is not wrong.
+There is also AlphaGo, AlphaZero, Pluribus (poker), and Cicero (Diplomacy): massive reasoning *and* learning, but in narrow domains. https://t.co/gWAliFenPQ -- 2023-05-07
+
+Pedro Domingos (华盛顿大学教授、机器学习专家):
+1. Machine learning can’t make exponentially more powerful AIs any more than evolution can make exponentially more powerful animals. -- 2023-05-08
+2. 60% of the jobs in America didn’t exist in 1940, and 60% of the jobs in 2100 likely don’t exist today. -- 2023-05-08
+3. Countries with the highest rates of automation and robotics have the least unemployment. (@TheEconomist) -- 2023-05-07
+
+Matt Shumer (SociallyMined创始人、AI 创业者):
+1. Let’s try something…
+
+Reply with an AI product you want to build, and I’ll tell you how to build it 👇 -- 2023-05-07
+
+Gary Marcus (纽约大学教授、AI 评论家):
+1. real scientists describe probabilities in terms of confidence intervals, not certainties. -- 2023-05-08
+2. How about “The amplification of human intelligence by machine intelligence will enable a new Renaissance, a new period of Enlightenment”?
+
+That kind of takes the cake, no?  
+
+Hard to beat that for hype. -- 2023-05-08
+
+Oriol Vinyals (Google Brain研究员、AlphaGo团队成员):
+1. Best feeling in the (Neural Network) world: loss is going down 📉 Happy Sunday!🌞 -- 2023-05-07
+
+Sam Altman (OpenAI 创始人):
+1. investing is an amazing very-part-time job, and (at least for me) a soul-sucking full-time job.
+
+BUT
+
+those mountains in aspen aren’t gonna ski themselves, that party in saint-tropez isn’t gonna enjoy itself, that kiteboard on necker island needs someone to fly it, etc etc etc. -- 2023-05-07
+2. being a VC is so easy, so high-status, the money is so great, and the lifestyle is so fun.
+ 
+very dangerous trap that many super talented builders never escape from, until they eventually look back on it all and say “damn i’m so unfulfilled”. -- 2023-05-07
+3. here is an alternative path for society: ignore the culture war. ignore the attention war. make safe agi. make fusion. make people smarter and healthier. make 20 other things of that magnitude.
+ 
+start radical growth, inclusivity, and optimism.
+ 
+expand throughout the universe. -- 2023-05-07
+
+Sully Omarr (AI 研究员、OpenAI 成员):
+1. Any good docs for migrating from pages directory to app directory? 
+
+Going to move Cognosys over.. just worried about the 69 different things that could go wrong. -- 2023-05-08
+2. My favorite use cases yet on Cognosys:
+
+One of our users explored quantum mechanics applications beyond physics.
+
+It's not perfect, but it gave pretty interesting insights, and potential candidates for deeper investigation https://t.co/5mf0fWj7TR -- 2023-05-08
+3. Both Bing and Perplexity be in trouble this is launched IMO. 
+
+I think a lot of people are underestimating Google here. 
+
+Link to article:
+https://t.co/CEjKzIDQ6B -- 2023-05-07
+
+Eliezer Yudkowsky (人工智能风险研究员、机器超级智能理论家):
+1. I'm not saying that it's a priori forbidden to argue about the chance of ASI killing everyone, as a factual issue, and conclude that it's small.
+
+I'm saying that if you use "I'd rather worry about this other thing with a different vibe I like better" *as an argument*, you fail. -- 2023-05-07
+2. Any time somebody discussing AGI/ASI scenarios says they'd "rather worry about" whatevs, you know they're not past the baby apprentice stage.  Reality doesn't give a fifth of a flying fuck what you'd rather worry about.  They aren't visualizing a world outside of their own heads. -- 2023-05-07
+3. Looks like my Sudden Unexpected TED Talk got posted early by a TEDx account. https://t.co/QCjePcrdZW -- 2023-05-07
+
+Greg Isenberg (Late Checkout创始人、AI 创业者):
+1. 👀
+
+https://t.co/3hBYKXlXcu -- 2023-05-08
+2. I also think thousands of these newly laid off employees are going to opt in to this solopreneur journey instead of trying to find a job 
+
+And 99% are going to be glad they did 
+
+So much more freedom -- 2023-05-07
+
+Elon Musk (特斯拉、SpaceX 创始人):
+1. What should do more of or less of or aren’t including at all? -- 2023-05-07
+2. We’re trying hard to make your feed as compelling as possible (maximize unregretted user minutes). 
+
+How is it now vs 6 months ago? -- 2023-05-07
+3. Yesterday in the pit https://t.co/NnAdSUxaBq -- 2023-05-07
+
+Bill Gates (微软创始人):
+1. Aside from water, there’s no material on Earth we use more than concrete. That’s why it’s so important to figure out how to decarbonize it. https://t.co/49PLdExMU3 -- 2023-05-07
+

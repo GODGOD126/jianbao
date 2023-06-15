@@ -1,0 +1,86 @@
+Yann LeCun (NYU教授、深度学习创始人):
+1. In many animal species, evolution encodes objectives.
+It is up to the individuals to figure out the behaviors that optimize these objectives.
+
+Encoding objectives rather than behaviors is much simpler, more efficient, and more adaptive way for evolution to specify complex… https://t.co/BIqgexOVx7 -- 2023-05-06
+2. Remember when naïve hackers were called script kiddies?
+
+What would be the equivalent designation for folks who think they are AI experts after a couple hours of LLM prompt engineering?
+
+Prompt kiddies? -- 2023-05-06
+3. I love and admire Geoff, but we knew then, and we know now, that he was wrong.
+AI *is* taking over radiology (albeit slowly) but he was wrong to say that we should stop training radiologists.
+AI is transforming the profession, not replacing it. -- 2023-05-06
+
+Ilya Sutskever (OpenAI联合创始人、深度学习专家):
+1. The meaning of life is neural net training 
+
+(parenting is a special case) -- 2023-05-06
+
+Sam Altman (OpenAI 创始人):
+1. the creative power of the world is breathtaking to watch.
+
+each time our tools get a little better and a little bit more accessible, our creations improve more than we imagine possible. -- 2023-05-06
+2. chatgpt has no social features or built-in sharing, you have to sign up before you can use it, no inherent viral loop, etc.
+
+seriously questioning the years of advice i gave to startups 🙃 -- 2023-05-06
+3. from the starship &amp; the canoe:
+
+Freeman Dyson has expressed some thoughts on craziness. In a Scientific American article called "Innovation in Physics," he began by quoting Niels Bohr. Bohr had been in attendance at a lecture in which Wolfgang Pauli proposed a new theory of… https://t.co/nKSAAYsUuL -- 2023-05-06
+
+Matt Shumer (SociallyMined创始人、AI 创业者):
+1. Both sides will progress, but with open-source always lagging a bit behind in terms of frontier capabilities.
+
+Massive compute enables OpenAI, Google, etc. to build cutting-edge capabilities first, and then open-source provides a more optimized solution that everyone can access. -- 2023-05-06
+2. In a possible 2024/2025: GPT-4.5/5 will do significantly more complex tasks that open-source LLMs won't.
+
+But at that point, open models will do complex agentic tasks that previously only closed models could do...
+
+and on and on it will go. -- 2023-05-06
+3. Why?
+
+Back in 2020-22, GPT-3 excelled in writing &amp; coding, while open-source LLMs struggled.
+
+Now, in 2023, GPT-4 handles more complex agentic tasks well. Open-source LLMs don't.
+
+But now open-source AI CAN write &amp; code well. -- 2023-05-06
+
+Andrej Karpathy (前Tesla AI 负责人):
+1. Oops haven't tweeted too much recently; I'm mostly watching with interest the open source LLM ecosystem experiencing early signs of a cambrian explosion. Roughly speaking the story as of now:
+
+1. Pretraining LLM base models remains very expensive. Think: supercomputer + months.… https://t.co/kotAkey2sQ -- 2023-05-06
+
+Elon Musk (特斯拉、SpaceX 创始人):
+1. https://t.co/E49qQqOStT -- 2023-05-07
+2. 🦾 https://t.co/PokrzS1O35 -- 2023-05-07
+3. Feeling nostalgic https://t.co/kLrbTYaXPT -- 2023-05-07
+
+Greg Brockman (OpenAI 联合创始人兼主席):
+1. Code Interpreter plugin for ChatGPT getting popular: -- 2023-05-07
+2. Thoughtful op-ed by high school senior Rohan Mehta on how ChatGPT can positively impact grade school education: https://t.co/7XQV5rAg6c https://t.co/gyy6EI0ozh -- 2023-05-06
+3. Laptop, wifi, ChatGPT subscription: -- 2023-05-06
+
+Lex Fridman (MIT研究员、AI 评论家):
+1. I did a 12 mile run along the river in Boston today, while listening to Beginning of Infinity by David Deutsch, which is one of my favorite books. It's endlessly optimistic and inspiring. I'm grateful to be alive and to be on this idea exploration journey with all of you ❤️ https://t.co/DwrYNrZveP -- 2023-05-07
+2. Here's my conversation with @dpakman, a left-wing political commentator, on all things politics including Trump, Biden, DeSantis, RFK Jr, Bernie, AOC, Twitter drama, etc. As always, I'll keep talking to people on all sides, seeking understanding &amp; wisdom. https://t.co/AMq2IYGBlA https://t.co/XXnXtfmyPJ -- 2023-05-06
+
+Greg Isenberg (Late Checkout创始人、AI 创业者):
+1. Enjoy your Saturday! https://t.co/D60lDxTYXK -- 2023-05-06
+2. Oh and if you're into using AI to supercharge your productivity, you need @youneedarobot 
+
+It's a free community and newsletter I started that has  60,000 people are in 
+
+Might as well sign up for that while it is still free
+
+https://t.co/ILRLn1EmiG -- 2023-05-06
+3. Ok that's enough from me today!
+
+Follow me Twitter at @gregisenberg and get access to my newsletter https://t.co/F3G2HRaeqB for a weekly dose of me 
+
+You'll enjoy the newsletter -- 2023-05-06
+
+Pedro Domingos (华盛顿大学教授、机器学习专家):
+1. San Francisco is dying. https://t.co/IMzkYBYdlF -- 2023-05-07
+2. How do you know a tech company has peaked? When it's the target of an antitrust lawsuit. -- 2023-05-07
+3. LLMs are AI's off-label drugs. -- 2023-05-07
+

@@ -1,0 +1,68 @@
+Lex Fridman (MIT研究员、AI 评论家):
+1. Protect your mind from influences that don't make you better in the long-term.
+
+I choose:
+- Long hours of focused work
+- Good challenging books or podcasts
+- Conversations with close friends -- 2023-05-13
+
+Eliezer Yudkowsky (人工智能风险研究员、机器超级智能理论家):
+1. Besides Israel and the San Francisco Bay Area, what other places on Earth share the property that everyone inside them would be vastly better off if it became common knowledge that the entire region would be destroyed by volcanoes exactly one year later? -- 2023-05-14
+
+Yann LeCun (NYU教授、深度学习创始人):
+1. $ cat &gt;lol.txt
+Y2K articles before year 2000:
+"OMG, rogue Y2K is going to kill us all!"
+Y2K articles after year 2000:
+"Hahaha, remember how everyone was so scared of Y2K?  ROFL!"
+^D
+$ sed 's/Y2K/AGI/' lol.txt | sed 's/2000/20XX/' -- 2023-05-13
+2. Remember Karl Popper's paradox of tolerance?
+"The seemingly self-contradictory idea that in order to maintain a tolerant society, the society must retain the right to be intolerant of intolerance."
+
+Here is an Internet-age corollary:
+"In order to maintain a constructive… https://t.co/o5moQLyAWB -- 2023-05-13
+
+Gary Marcus (纽约大学教授、AI 评论家):
+1. Potentially historic. 
+
+Watch it live:  AI oversight and our future, with @sama, @garymarcus, @_ChristinaMontana questioned by the members of the US @SenateJudiciary subcommittee
+
+10 am ET Tuesday, at https://t.co/VwiR77F52f (or @cspan?) -- 2023-05-14
+2. If Sam has a plan, the Senators should know his plan.  If Sam doesn’t have a plan, they should know that, instead
+
+If Sam does not have a plan, here or there, we should not like that, anywhere. -- 2023-05-13
+3. new poll, new choices (two from you in the twitterverse 🙏). 
+
+same idea: s/he who chooses the data, rules. -- 2023-05-13
+
+Sully Omarr (AI 研究员、OpenAI 成员):
+1. Final conclusion: If you've been building LLM applications you know latency and cost is a huge factor. 
+
+Just based on the results i'd say bison is good for about 80% of people building LLM applications. 
+
+Its cheaper, quicker, and can scale unlike gpt4 -- 2023-05-13
+2. Also important note: Bison isn't even Google's biggest LLM. Unicorn is the largest model, which isn't out yet.
+
+Based on me playing around with bison i'd say that unicorn will be very very close to GPT4 on reasoning and "critical thinking".
+
+Will test when its available. -- 2023-05-13
+3. I think this short experiment shows how important it is to pick and choose the LLM based on use-case. 
+
+For in-depth reasoning i'd pick GPT4, but for the majority of tasks that require larger text inputs and outputs, or are zero shot extractions, I think bison takes the cake -- 2023-05-13
+
+Elon Musk (特斯拉、SpaceX 创始人):
+1. Poetry with quill 🪶 
+Written on rose 🌹 
+With my blood 🩸 -- 2023-05-14
+2. Until the Supreme Court struck down Biden’s vaccination decree, he tried to demand that we fire all unvaccinated personnel – some of our finest people -- 2023-05-14
+
+Pedro Domingos (华盛顿大学教授、机器学习专家):
+1. Remember when OpenAI didn't release GPT-2 because of the potential harms it would cause? How hilarious is that now? -- 2023-05-13
+
+Sam Altman (OpenAI 创始人):
+1. summer is coming -- 2023-05-13
+
+Greg Brockman (OpenAI 联合创始人兼主席):
+1. that feeling when you've been toiling building five separate components and finally get to wire them together -- 2023-05-14
+

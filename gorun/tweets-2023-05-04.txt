@@ -1,0 +1,86 @@
+Lex Fridman (MIT研究员、AI 评论家):
+1. Technology usually creates more jobs that it destroys. But every lost job has a deep human cost. Both things are important to consider. -- 2023-05-03
+
+Sully Omarr (AI 研究员、OpenAI 成员):
+1. Finally got internet + search mode working ish up on Cognosys 
+
+It automatically searches and scrapes sites and returns the results nicely :)
+
+PS: We're hiring engineers. Shoot me a dm or leave a comment if you're interested in building agents with us! https://t.co/3LkR42G8BG -- 2023-05-04
+2. It simplifies the prompt chaining and prompting side of things, because you only need to give it business logic in one place. 
+
+Here's a cool example of really getting the system prompt going. https://t.co/nzGS61n7rg -- 2023-05-03
+3. But when you have a system message, say in the playground. It always knows to respond with "i am a cat" regardless of the tokens you pass it. 
+
+GPT4 is really really good at responding to system prompts. https://t.co/P4rRdajqP5 -- 2023-05-03
+
+Max Tegmark (MIT教授、宇宙学家):
+1. Here's a great new paper AI paper generalizing the "grandmother neuron" to k&gt;1 neurons that collectively encode input features: @neelnanda5 -- 2023-05-03
+
+Elon Musk (特斯拉、SpaceX 创始人):
+1. https://t.co/g7UiTiTPhI -- 2023-05-04
+
+Bill Gates (微软创始人):
+1. When I first met @dsengeh in 2011, I was blown away by his intellect, his ambition, and his sense of humor. His new book is a must-read for anyone who wants to help create a truly inclusive world. https://t.co/VGjrQjjgdn -- 2023-05-03
+
+Google (全球最大的搜索引擎和互联网技术公司):
+1. #GoogleIO returns on May 10 at 10am PT and you have a front row seat for the latest updates spanning AI, Android, hardware and beyond → https://t.co/BJCe4w8BPR https://t.co/Yrb9dUO3zb -- 2023-05-03
+2. Today, Google Registry is launching eight new top-level domains: .dad, .phd, .prof, .esq, .foo, .zip, .mov and .nexus. Learn more ↓ https://t.co/3AffFnPhYu -- 2023-05-03
+3. Meet Dave Moody, who is building a Google data center and mentoring an expanding Black workforce. Learn what drives him despite the obstacles he faced. Listen to Season 3, Episode 4 of #WhereTheInternetLives, out today → https://t.co/BdAB0LOVPe https://t.co/TNmM5mkkTk -- 2023-05-03
+
+Yann LeCun (NYU教授、深度学习创始人):
+1. Note to picky neuroscientists: replace "lizard brain" by "basal ganglia". -- 2023-05-04
+2. We can design AI systems to be both super-intelligent *and* submissive to humans.
+I always wonder why people just assume that intelligent entities will necessarily want to dominate.
+That's just plain false, even within the human species. -- 2023-05-04
+3. Our neocortex is entirely controlled by our lizard brain.
+Our future superhuman exocortex will be controlled by our neocortex.
+
+We can design AI to have superhuman intelligence *and* be submissive. 
+For an entity to control another, it has to *want* to take control. -- 2023-05-04
+
+Gary Marcus (纽约大学教授、AI 评论家):
+1. Another dark LLM prediction has come to pass: AI-powered content farms are here. 
+
+First report from @NewsGuardRating - and we can bet that the problem will grow, rapidly. -- 2023-05-04
+2. Seriously hope that this quote (to NYTimes March 29) doesn't turn out to be prophetic.
+
+But I suspect it will. -- 2023-05-03
+3. Coming Friday May 12, 11am ET at https://t.co/6p09mZZngw 
+[link may not be live until then] https://t.co/CeORQV2tOH https://t.co/320k1TLOvm -- 2023-05-03
+
+Matt Shumer (SociallyMined创始人、AI 创业者):
+1. We need an insanely cool name for Personal Assistant.
+
+What do you think it should be?
+
+Comment below -- if we choose yours, I'll make sure you get early access :) -- 2023-05-03
+2. Zero-shot GPT prompts are cool, but for many use-cases, you can get FAR better results by including an example in your messages.
+
+Bonus, you can cut down the size of your system prompt, so it's faster + cheaper! -- 2023-05-03
+3. This morning I used GPT-4-32K to explain how Twitter’s open-source algorithm works.
+
+I have a few meetings now but I’ll post it later today.
+
+Stay tuned… -- 2023-05-03
+
+Greg Brockman (OpenAI 联合创始人兼主席):
+1. Debugged a mysterious hang in a previously-working Docker container, only to find it was because I'd silently run out of disk space. Some failure modes never change 😅. -- 2023-05-03
+2. Interesting study on ChatGPT in education: https://t.co/VZMzTsLLFE https://t.co/nFtFleepXi -- 2023-05-03
+
+Eliezer Yudkowsky (人工智能风险研究员、机器超级智能理论家):
+1. +1 -- 2023-05-04
+2. So now that the godfather of deep learning is metaphorically buying out my prediction market position, everyone who claimed I had no right to speak because I'd trained insufficiently large neural nets myself is going to issue an apology and retraction, right? -- 2023-05-03
+
+Pedro Domingos (华盛顿大学教授、机器学习专家):
+1. There's a sharp bend in the road 100 miles from here where we might fall off a cliff, so we *must* stop the car *right now*. https://t.co/KUSFxFuSHL -- 2023-05-04
+2. Hinton: There are very few examples of a more intelligent thing being controlled by a less intelligent thing.
+Reality: Every organization has smart people being controlled by dumb ones. -- 2023-05-04
+
+Sam Altman (OpenAI 创始人):
+1. the arc of technology is towards simplicity.
+
+talking to a computer like we talk to a human is pretty simple.
+
+we have come a long way from punch cards to natural language, but within the paradigm of natural language, we can now go so far. -- 2023-05-03
+

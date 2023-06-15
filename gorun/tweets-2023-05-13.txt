@@ -1,0 +1,84 @@
+Sully Omarr (AI 研究员、OpenAI 成员):
+1. Anyone wana see some palm2  bison vs gpt4 comparisons? Have a few good prompts to compare their pros and cons. -- 2023-05-12
+
+Eliezer Yudkowsky (人工智能风险研究员、机器超级智能理论家):
+1. The impossible difficulty-danger of AI is that you won't get superintelligence right on your first try - but worth noticing today's builders can't get regular AI to do what they want on the twentieth try. https://t.co/3uQZl4FzYG -- 2023-05-13
+
+Google (全球最大的搜索引擎和互联网技术公司):
+1. .@Android announced fun generative AI features that let you personalize your device. Whether you want to show more emotion with emojis or create bespoke backgrounds, find out how you can customize your phone, from lock screen to wallpaper → https://t.co/UbzMynZeQP #GoogleIO -- 2023-05-12
+2. Here are 4 Bard updates we shared at #GoogleIO:
+
+1) In addition to English, Bard can now collaborate in Japanese and Korean
+2) Availability in 180+ countries &amp; territories, in all 3 languages
+3: Dark theme
+4: Export responses to Gmail and Google Docs
+https://t.co/WRvKeguF7F -- 2023-05-12
+
+Yann LeCun (NYU教授、深度学习创始人):
+1. Wondering how "runaway AI" can run away if it's been "running into walls" for several years now🤔 -- 2023-05-12
+2. Coming soon. -- 2023-05-12
+
+Greg Brockman (OpenAI 联合创始人兼主席):
+1. Browsing &amp; Plugins for all Plus users, rolling out over the next week: -- 2023-05-12
+2. Survey of 5,894 Swedish university students about their use of AI chatbots:
+
+"Overall, most students are positive towards the use of chatbots and other AI-language tools in education; many claim that AI makes them more effective as learners." https://t.co/CuHAAFwnUF -- 2023-05-12
+
+Matt Shumer (SociallyMined创始人、AI 创业者):
+1. GPT-4 is still the king -- at least, in terms of pure intelligence.
+
+But the gap is closing, quickly. -- 2023-05-12
+2. Finally, the AIs find and fix a simple bug in a short Python script.
+
+All three do it flawlessly. https://t.co/B7uSiWTOS6 -- 2023-05-12
+3. Fourth, let's have the AIs convert binary into English.
+
+GPT-4 and Claude do it perfectly (though GPT-4's response is cleaner), and Bard refuses to answer. https://t.co/TdbV3W2jmn -- 2023-05-12
+
+Greg Isenberg (Late Checkout创始人、AI 创业者):
+1. I'm coming to NYC next week
+
+Who wants to hang out? -- 2023-05-12
+
+OpenAI (GPT、DALL-E 缔造者):
+1. We’re rolling out web browsing and Plugins to all ChatGPT Plus users over the next week! Moving from alpha to beta, they allow ChatGPT to access the internet and to use 70+ third-party plugins. https://t.co/t4syFUj0fL https://t.co/Mw9FMpKq91 -- 2023-05-12
+
+Joshua Browder (DoNotPay创始人、AI 律师):
+1. Here is a DoNotPay GPT-4 bot negotiating with the New York Times to cancel my subscription.
+
+It is ridiculous you have to chat with a customer service agent to cancel. 
+
+Fortunately, A.I. will end dark patterns, because it doesn’t give up as easily as a human! https://t.co/lUNqtJQ9Pb -- 2023-05-12
+
+Max Tegmark (MIT教授、宇宙学家):
+1. Kaboom! https://t.co/iJsHryg90o -- 2023-05-12
+
+Bill Gates (微软创始人):
+1. Ric was employee number 2 at Microsoft and a dear friend. He was also a tireless philanthropist, an advocate for LGBTQ+ rights and HIV/AIDS research, and an inspiration to me and so many others. His story is worth a watch: https://t.co/ASS0hp3Eug -- 2023-05-12
+
+Pedro Domingos (华盛顿大学教授、机器学习专家):
+1. Sign the petition calling for @UW to adopt the Chicago Statement:
+https://t.co/yYCcGaU3R9 -- 2023-05-13
+
+Gary Marcus (纽约大学教授、AI 评论家):
+1. It’s hilarious how in just the first few months of 2023 I have been falsely accused of being both a techno-chauvinist and a Luddite 🤣 -- 2023-05-13
+2. “Near-zero?”
+
+Rarely I have a wanted to see a new movie this much. -- 2023-05-13
+
+Elon Musk (特斯拉、SpaceX 创始人):
+1. Explaining Constitutional Amendments https://t.co/oYkMPBe9Zi -- 2023-05-13
+2. If AGI is almost here, why doesn’t autocorrekt work!? -- 2023-05-13
+3. Raptor V3 just achieved 350 bar chamber pressure (269 tons of thrust). Congrats to @SpaceX propulsion team!
+
+Starship Super Heavy Booster has 33 Raptors, so total thrust of 8877 tons or 19.5 million pounds. https://t.co/ZlskpCXUmu -- 2023-05-13
+
+Jeff Dean (Google人工智能部门负责人):
+1. Learn about vintage Vint and his collaborator Robert Kahn while you're @vgcerf'in the vinternet. -- 2023-05-12
+
+Sam Altman (OpenAI 创始人):
+1. all ChatGPT Plus users getting browsing and plugins over the next week; hope you enjoy! -- 2023-05-12
+
+Oriol Vinyals (Google Brain研究员、AlphaGo团队成员):
+1. "Context length" is the new "model size" 🤔 -- 2023-05-12
+

@@ -1,0 +1,95 @@
+Greg Brockman (OpenAI 联合创始人兼主席):
+1. current status: waiting for CI -- 2023-05-10
+2. Commercial deal for fusion by 2028 🤯. Hard tech is so back: -- 2023-05-10
+
+Matt Shumer (SociallyMined创始人、AI 创业者):
+1. Spot on. I've been using GPT-4-32K for a while.
+
+32K tokens enables super complex prompts that behave nearly *exactly* how you want them to...
+
+You have to think differently than when you prompt other AI systems, though.
+
+Concision matters less than clarity. -- 2023-05-10
+2. Super simple prompt, but it's wildly useful.
+
+And if you're looking for products that can do this even better, check out @askviable and @BuildBetterAI! -- 2023-05-10
+3. Then, I want you to determine what we should do next to improve the product, thinking step-by-step to come up with the best possible answer. -- 2023-05-10
+
+Andrej Karpathy (前Tesla AI 负责人):
+1. The creator of the trailer for Star Wars by Wes Anderson [1] is back with a new trailer for The Lord of the Rings. Highly amusing. Cited as ~25 hours of work.
+
+Guess at tools:
+- Midjourney / Stable Diffusion
+- ControlNet depth map for parallax
+- ElevenLabs for text-to-voice… https://t.co/Dfm7Gbf9a0 -- 2023-05-10
+
+Lex Fridman (MIT研究员、AI 评论家):
+1. Now is the best time to be alive. I'm grateful for this moment and for the entire history of life on Earth that led up to it. -- 2023-05-10
+
+Elon Musk (特斯拉、SpaceX 创始人):
+1. Early version of encrypted direct messages just launched.
+
+Try it, but don’t trust it yet. -- 2023-05-11
+
+Gary Marcus (纽约大学教授、AI 评论家):
+1. This goes in my Senate testimony for sure. -- 2023-05-11
+
+Sam Altman (OpenAI 创始人):
+1. we are so back -- 2023-05-11
+2. microsoft becomes helion's first customer, in the first commercial deal for fusion power:
+
+https://t.co/q9mOeWdR0s -- 2023-05-10
+
+Sully Omarr (AI 研究员、OpenAI 成员):
+1. Gpt4 32k  + chatbot ui = illegal levels of productivity -- 2023-05-11
+2. Googles new LLM (bison) is approx 7.5x cheaper than gpt4
+
+Basic napkin math: 
+1 token ~ 4 characters 
+
+Gpt4: $0.03/1000 tokens 
+
+Bison: $0.004/1000 tokens
+
+Chat bison is 15x cheaper (0.0005/1k)
+
+You can also batch requests!
+
+Smaller models are the way to go https://t.co/KhjgxCVchu -- 2023-05-11
+3. They also announced duet ai - basically copilot powered on gcp. 
+
+You can also train models directly on vertex with thats 80% more efficient and 50% price in reduction. 
+
+There's also H100's available via A3 -- 2023-05-10
+
+Yann LeCun (NYU教授、深度学习创始人):
+1. From someone who has studied how the media report on the tech industry. -- 2023-05-10
+2. A compact recap of a few arguments against AI doomism. -- 2023-05-10
+
+Pedro Domingos (华盛顿大学教授、机器学习专家):
+1. It’s too late - we have unleashed AGI upon humanity (Anxiety-Generating Innovation, that is). -- 2023-05-11
+2. It’s striking how many signatories of the AI moratorium letter don’t really agree with it, but just thought it was a good way to get publicity for the AI regulation agenda. -- 2023-05-11
+3. Mathematics is programming with a very small namespace. -- 2023-05-11
+
+Eliezer Yudkowsky (人工智能风险研究员、机器超级智能理论家):
+1. What good does this do without a matching revolution at the FDA?  Are they planning to sell outside the USA? -- 2023-05-11
+
+Google (全球最大的搜索引擎和互联网技术公司):
+1. Up for a game of cards? #FlipWithGoogle is an AI-designed card game, built for #GoogleIO. Choose your team from thousands of AI-designed cards and flip your way to the top of the leaderboard. Play now →  https://t.co/n9lbwBERve https://t.co/bde8myWxSq -- 2023-05-11
+2. Android’s latest AI-powered features will inspire you to put your creative cap on 🎨 and help you keep track of your various devices 🔎 Dive deeper into @Android’s #GoogleIO announcements, including customized AI wallpapers ↓ https://t.co/pbRKzdVQrN -- 2023-05-10
+3. In 2021 we introduced Project Starline, a "magic window" that helps people feel like they’re together — even when they're apart. Thanks to AI, our newest prototype shrank from the size of a restaurant booth to a flat screen TV. Learn more → https://t.co/jTs3dGVJZr  #GoogleIO https://t.co/nMqhqoB39y -- 2023-05-10
+
+DeepMind (Google旗下的人工智能研究公司):
+1. We are proud to keep working on the biggest breakthroughs in AI to build more capable systems, safely and responsibly.
+
+The next foundation model Gemini is still in training, but it’s already exhibiting multimodal capabilities. ⬇️  #GoogleIO https://t.co/N6KF5prSrh -- 2023-05-10
+2. PaLM-2 is a next generation large language model with improved coding, multilingual and reasoning capabilities.
+
+It will power over 25 new @Google products and features, bringing the latest in advanced AI to benefit people.
+
+Here’s how it’s being deployed already. ⬇️ #GoogleIO -- 2023-05-10
+
+Bill Gates (微软创始人):
+1. I had the best day in Kemmerer, Wyoming. Over a coal plant tour, a site visit of the future Natrium plant, burgers, ice cream, and coffee, I got excited about the clean energy transition and the promise of next-generation nuclear: https://t.co/V8RO00hXKU https://t.co/kOInWbsJBE -- 2023-05-10
+2. Expanding access to single-dose HPV vaccines could save 45 million lives worldwide over the next 100 years. This is a great example of why I’m optimistic about the future of global health. https://t.co/DjaMRXOQle -- 2023-05-10
+

@@ -1,0 +1,62 @@
+Bill Gates (微软创始人):
+1. I binged all four seasons of Borgen. https://t.co/jUwpM0piwL -- 2023-06-12
+
+Andrej Karpathy (前Tesla AI 负责人):
+1. Thanks for highlighting; The paper that introduced Attention (by @DBahdanau, @kchonyc, Bengio) gets ~1000X _less_ attention than the paper "Attention is All You Need". And it is historically amusing that both are very general but happened to be developed for machine translation. -- 2023-06-12
+
+Pedro Domingos (华盛顿大学教授、机器学习专家):
+1. The ROI (return on intellect) of science is lowest in physics (massive intellect, no return) and highest in deep learning (no intellect, massive return). -- 2023-06-13
+2. Ending affirmative action will greatly improve diversity of thought at American universities. -- 2023-06-13
+3. San Francisco really is dying. -- 2023-06-13
+
+Greg Brockman (OpenAI 联合创始人兼主席):
+1. ChatGPT to help doctors find the right words of empathy: https://t.co/2AWsFPI8F5 -- 2023-06-13
+
+Lex Fridman (MIT研究员、AI 评论家):
+1. I got the chance to hang out with @sundarpichai and chat about the future of AI at Google and beyond. I'm really excited to see so many great engineers &amp; teams working on this. PS: We'll do a podcast eventually. Sundar is a fascinating human being, and is really fun to talk to! https://t.co/29TZNetOIR -- 2023-06-12
+
+Greg Isenberg (Late Checkout创始人、AI 创业者):
+1. This is a man who enjoys the combo of DIY, DWY and DFY #3D https://t.co/LAfLxeJN4v -- 2023-06-13
+2. I've been able to build a few 7 figure brands in the last 3 years... all thanks to my fav business model
+
+I call it the 3D model. And it works like a charm for internet businesses
+
+It's a combo of DIY, DWY, &amp; DFY
+
+3 reasons why I love it:  
+
+1. Diversifies revenue like a dream… https://t.co/Nwyl1mfOLj https://t.co/iIhX6fswhF -- 2023-06-13
+
+Sully Omarr (AI 研究员、OpenAI 成员):
+1. I am embarrassed to say I did not use few shot prompts enough. Totally changes the game
+
+Its a great way at making cheaper and "dumber"  LLM's  more accurate (relative to GPT4). Pretty neat stuff.
+
+Anyone want a guide on this? -- 2023-06-13
+2. We will probably see so many new companies come arise which will create solutions for specific use cases - or if your team is big enough you can build them in-house. -- 2023-06-12
+3. Will SMB's be able to utilize all of these models to 100% effectiveness? probably not, but it opens a door that wasn't really possible before.
+
+Now anyone can use these models, and build a product that solves problems very very easily. 
+
+No need to worry about ml/ops etc -- 2023-06-12
+
+Yann LeCun (NYU教授、深度学习创始人):
+1. Best degense against human extinction by rogue AGIs:
+Get them to destroy each other in a religious war over the ultimate question:
+Vi vs Emacs. -- 2023-06-13
+2. World models in autonomous driving FTW! -- 2023-06-12
+3. Exactly.
+Just because Auto-Regressive LLMs are not controllable doesn't mean that future AI system won't be controllable.
+In fact, we've been focusing on Objective-Driven AI architectures in part *because* they are controllable, and also because they can reason and plan. -- 2023-06-12
+
+Gary Marcus (纽约大学教授、AI 评论家):
+1. This is profound. 
+
+When people try to figure out what went wrong with the initial mainstream adoption of AI in the early 2020s, someone will eventually rediscover this fact. -- 2023-06-13
+2. Standing by this one -- 2023-06-13
+
+DeepMind (Google旗下的人工智能研究公司):
+1. AlphaDev is just one way our AI models are helping make computer systems more efficient. 🖥️
+
+We have worked with units across @Google to apply AI to keep data centers cool, share computing resources across servers and much more. Here's how. ⬇️ https://t.co/VU9i9P5Mgd -- 2023-06-13
+

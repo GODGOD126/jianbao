@@ -1,0 +1,76 @@
+Gary Marcus (纽约大学教授、AI 评论家):
+1. Good to know that Dall-E 2 solved all the bias problems we have been worrying about for years — NOT! -- 2023-05-05
+2. Geoff Hinton certainly is having a moment. -- 2023-05-05
+
+Greg Brockman (OpenAI 联合创始人兼主席):
+1. Laptop, wifi, ChatGPT subscription: -- 2023-05-06
+2. Super fast 3D object generation, from text or image: -- 2023-05-05
+3. Maximizing the benefits of AI while proactively mitigating the risks is key to OpenAI’s mission: -- 2023-05-05
+
+Joshua Browder (DoNotPay创始人、AI 律师):
+1. It finally happened! Our DoNotPay GPT-4 bot was negotiating against a company using GPT-4 to handle their own chat.
+
+The two bots engaged in a long conversation. Eventually, our bot won a small discount.
+
+“Customer service chat” for two AIs negotiating is just an illusion. -- 2023-05-05
+
+Elon Musk (特斯拉、SpaceX 创始人):
+1. Highly recommend that organizations sign up and validate their affiliates to prevent impersonation -- 2023-05-06
+2. https://t.co/J9ztxdke4S -- 2023-05-06
+
+Sam Altman (OpenAI 创始人):
+1. heavily related: the level at which the top technical people in the world are operating is incredible to watch and makes me feel very fortunate to be in this industry! -- 2023-05-05
+2. a huge amount of value comes from being able to see what’s coming over the next decade in many different areas of technology and put it together. you can find solutions others can’t.
+
+going deep is good but don’t forget to look wide too! -- 2023-05-05
+3. i am amazed by how fast it’s possible to adjust to huge changes as ‘the new normal’ -- 2023-05-05
+
+Greg Isenberg (Late Checkout创始人、AI 创业者):
+1. Btw, this is inside the annual general meeting of Berkshire Hathway in Omaha
+
+Bonkers. https://t.co/5RrE5vaD8u -- 2023-05-05
+2. Of all our products in our holding company use @DispatchDesign to design beautiful brands and products
+
+Follow it for inspirational designs in your feed -- 2023-05-05
+3. Once you understand your community, then you can design something beautiful for them that they'll love
+
+Sometimes that means ugly is beautiful and beautiful is ugly -- 2023-05-05
+
+Yann LeCun (NYU教授、深度学习创始人):
+1. A comparison of open 7B LLMs -- 2023-05-06
+2. Astonished that a scientist would attract so much attention.
+Thank you, everyone. https://t.co/zDdAMHIdZP -- 2023-05-05
+
+Bill Gates (微软创始人):
+1. This next-generation nuclear facility will be a win for the local economy, America’s energy independence, and the fight against climate change. https://t.co/u9P7uB64vQ -- 2023-05-05
+2. On International Day of the Midwife, I’m thinking about Eva Nangalo—a tireless advocate for mothers and babies and the next generation of trained #midwives in Uganda. #IDM2023 https://t.co/9JoyZceamm -- 2023-05-05
+
+Ilya Sutskever (OpenAI联合创始人、深度学习专家):
+1. It’s not a religion if it’s true -- 2023-05-05
+
+Sully Omarr (AI 研究员、OpenAI 成员):
+1. Someone should just use GPT4 to create a unbiased news agency. Feed it all the data and let it create news articles.
+
+Bonus point: you can let users chat with it as well, so they can ask questions. 
+
+Now that i think of it, why hasn't anyone done this yet? -- 2023-05-05
+2. Also answered the follow up EASILY. Guys this a 28 page hearing. And its able to digest it and answer it perfectly.
+
+I'll do more examples later. Leave a comment with what you wana see https://t.co/rLL6eTahAm -- 2023-05-05
+3. So heres the first one: I asked it a few basic questions: https://t.co/wKItEMzGSa -- 2023-05-05
+
+Pedro Domingos (华盛顿大学教授、机器学习专家):
+1. Somewhere between the old AI pros who refuse to be impressed by ChatGPT and the overexcited newbies lies the truth. https://t.co/OBMMuvMNvI -- 2023-05-06
+2. Europe will soon pass the AI Act, the result of an intensive effort to figure out what it can do to fall further behind in AI. -- 2023-05-05
+3. Screenwriters’ strike to ban AI-generated screenplays only makes them more likely. -- 2023-05-05
+
+Geoffrey Hinton (多伦多大学教授、深度学习先驱):
+1. Dishonest CBC headline:
+"Canada's AI pioneer Geoffrey Hinton says AI could wipe out humans. In the meantime, there's money to be made". 
+The second sentence was said by a journalist, not me, but you wouldn't know that. -- 2023-05-05
+
+Matt Shumer (SociallyMined创始人、AI 创业者):
+1. If you're in the AI space, you MUST read this: https://t.co/ylHwcTiUcr
+
+Profound implications for the future of AI. -- 2023-05-05
+

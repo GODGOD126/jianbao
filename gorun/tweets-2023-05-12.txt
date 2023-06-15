@@ -1,0 +1,94 @@
+Jeff Dean (Google人工智能部门负责人):
+1. Learn about vintage Vint and his collaborator Robert Kahn while you're @vgcerf'in the vinternet. -- 2023-05-12
+
+Sam Altman (OpenAI 创始人):
+1. we are so back -- 2023-05-11
+
+Greg Brockman (OpenAI 联合创始人兼主席):
+1. Survey of 5,894 Swedish university students about their use of AI chatbots:
+
+"Overall, most students are positive towards the use of chatbots and other AI-language tools in education; many claim that AI makes them more effective as learners." https://t.co/CuHAAFwnUF -- 2023-05-12
+2. GPT-4 for law: -- 2023-05-11
+
+Pedro Domingos (华盛顿大学教授、机器学习专家):
+1. I don't know what's more hilarious here, the epidemic of white faculty pretending to be minorities to advance their careers or the sheer amount of groveling this one had to do when she was caught.
+https://t.co/HV2ATDN2sx -- 2023-05-12
+2. Great discussion on AI alarmism between me, Gillian Hadfield and Jeremie Harris on @TheAgenda:
+https://t.co/LxchSDR5fg -- 2023-05-12
+
+Matt Shumer (SociallyMined创始人、AI 创业者):
+1. Assuming AI keeps progressing at this pace, what do you think the world will look like in five years? -- 2023-05-12
+2. Claude-100K reads the *entire* hundred-page GPT-4 Technical Report...
+
+and guesses how many parameters GPT-4 has, providing its reasoning. https://t.co/9Na6gmOb8h -- 2023-05-11
+
+Google (全球最大的搜索引擎和互联网技术公司):
+1. Coming soon to @GoogleMaps: Immersive View for routes, a new way to see all the information you need about your route, from weather and traffic info, to directions, air quality and more. Explore the latest Maps updates we announced at I/O. https://t.co/aWTZW25QtV #GoogleIO -- 2023-05-11
+2. We're committed to protecting you online. Learn about the newest ways we’re keeping you #SaferWithGoogle, strengthened by our advancements in AI #GoogleIO ↓ 
+ https://t.co/SRkUmaglD6 -- 2023-05-11
+3. During #GoogleIO, we announced Pixel 7a, #PixelFold and Google Pixel Tablet. Learn more about how AI makes these devices more helpful ↓ https://t.co/Ps9nqBw87V -- 2023-05-11
+
+Elon Musk (特斯拉、SpaceX 创始人):
+1. As seen by an unaffected third party -- 2023-05-12
+2. Wow -- 2023-05-12
+3. The most entertaining outcome is the most likely -- 2023-05-12
+
+Bill Gates (微软创始人):
+1. Building a clean energy future will require a lot of new wires—the U.S. will need to grow the grid by almost two-thirds its current size in the next decade. https://t.co/XFkonneN3X -- 2023-05-11
+2. It’s possible to build nuclear reactors without enormous costs—to our environment, our economy, or our health. This article details how it can be done to increase clean energy infrastructure. https://t.co/r01GHEg4Iq -- 2023-05-11
+
+Yann LeCun (NYU教授、深度学习创始人):
+1. Article de @ponsheloise et @guillaumgrallet pour @LePoint -- 2023-05-12
+2. Article by @ponsheloise and @guillaumgrallet for @LePoint -- 2023-05-12
+
+吴恩达 (Coursera联合创始人、前百度首席科学家):
+1. "Give me your tired, your poor, Your huddled masses yearning to breathe free," reads a poem on the Statue of Liberty. 🗽
+
+Looking at the immigration chaos on the southern US border, I wish we can build a compassionate world that supports and lifts up anyone in need. -- 2023-05-11
+
+Andrej Karpathy (前Tesla AI 负责人):
+1. You can take almost all brain uploading sci-fi and ideas and change them from 20+ years away (maybe) to small few years away (very likely) just by replacing occurrences of "brain scanning" with "LLM finetuning", and fidelity from ~perfect to lossy. -- 2023-05-11
+2. Full Stack LLM Bootcamp
+8 lectures, high quality tokens 👍
+https://t.co/51A9VQ6Aki -- 2023-05-11
+
+Gary Marcus (纽约大学教授、AI 评论家):
+1. Three things that probably can’t all be true
+- AGI is imminent (this year/decade/century)
+- AGI will disrupt everything
+- The net number of jobs won’t change when it arrives -- 2023-05-12
+2. Source: Sam Altman’s Manifest Destiny https://t.co/soW4GYJCVF -- 2023-05-12
+
+Jack Clark (OpenAI通讯主任):
+1. clong -- 2023-05-11
+
+Greg Isenberg (Late Checkout创始人、AI 创业者):
+1. @mikekarnj @safwaankay The website https://t.co/WkyH2hhzLj was designed by https://t.co/rgCGbDQl7z -- 2023-05-11
+2. Thanks to @mikekarnj @safwaankay for the interview -- 2023-05-11
+3. @brandkitchenplz We're hiring like crazy:
+
+- Senior product designers
+- AI writer
+- GM of Agency
+- Tweet writer
+- Product managers 
+- Chief of staff 
+- Senior AI talent 
+
+Preferably based in Canada
+
+Email us withy why you are dope: careers@latecheckout.studio -- 2023-05-11
+
+Sully Omarr (AI 研究员、OpenAI 成员):
+1. 100k context from Anthropic. Well done.
+
+Vector embeddings going to be unnecessary very soon (for most use cases).
+
+Exciting times https://t.co/uoWMP6ynIQ -- 2023-05-11
+2. Just like most companies have a platform team, eventually most companies will have an AI team.
+
+Googles vertex announcement is a lot bigger than most think.
+
+The biggest problem OpenAI have isn’t their LLMs, it’s their inability to scale and easily integrate infrastructure -- 2023-05-11
+3. Gpt4 32k  + chatbot ui = illegal levels of productivity -- 2023-05-11
+
