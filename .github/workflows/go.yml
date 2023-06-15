@@ -1,0 +1,26 @@
+name: Daily Run
+
+on:
+  schedule:
+    - cron: '15 12 * * *'  # 每天 UTC 时间 20:08（北京时间 12:08）
+
+jobs:
+  run-program:
+    name: Run Program
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v2
+
+      - name: Set up Go
+        uses: actions/setup-go@v2
+        with:
+          go-version: 1.19  # 指定您的 Go 版本号
+
+      - name: Build program
+        run: go build -o myprogram main.go
+
+      - name: Run program
+        run: ./myprogram
+
