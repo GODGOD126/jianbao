@@ -23,7 +23,7 @@ jobs:
           echo 'export PATH=$PATH:/usr/local/go/bin' >> $HOME/.bashrc
           source $HOME/.bashrc
 
-
-
       - name: Run main.go
-        run: go run main.go
+        run: |
+          cd gorun
+          go run main.go
